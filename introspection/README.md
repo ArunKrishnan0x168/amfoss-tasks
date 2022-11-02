@@ -14,3 +14,13 @@ Hi guys👋, So i took biology in my 11'th and 12'th standard so you'd expect th
 ### What is your plan for the next 6 months?
 
 In the next 6 months i'd learn more about programming languages that i already know especially c and c++, as i have a sepcial interest in moderately low level programming languages also i wanna advance in the field of competitive programming and c++ is my language of choice for that purpose.I'd also like to contribute more to the Open Source community, also i would like to contribute and grow my upcoming Game Engine [WinterStorm](https://github.com/ArunKrishnan0x168/WinterStorm) which is still a work in progress along with that i'd have to devote most of my time in academics as well.
+
+
+### How would you contribute back to the club?
+
+I'd work my aboslute hardest for the advancement of the club in the domain of Open Source Technologies(FOSS) along with that i'll help and guide my peers who seek help without any hesitation of any kind.
+
+
+### Do you have any feedback on the selection process?
+
+I think the selection process is pretty good as it touches some major topics on CS and it would make for an amazing learning experience for anyone who attempts these tasks,Overall pretty happy with the selection process.
