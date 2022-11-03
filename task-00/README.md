@@ -1,3 +1,3 @@
-#Install Ubuntu 22.04 [Desktop]
+# Install Ubuntu 22.04 [Desktop]
 
 This was an easy task for me as i have previous experience in installing linux distros but this was a fun one to do. I think most people(including me) messed up on the boot loader(grub) part which leads to not booting any OS at all. Sometimes people might delete linux files from windows along with boot loader which again leads to not booting any OS. Overall a nice and fun challenge. This video helped a ton [reference_video](https://youtu.be/GXxTxBPKecQ), I'm also attaching a screenshot just incase. I've created a blog post on dev.to so please check it out if you're stuck [my_blog](https://dev.to/arunkr1shnan/ubuntu-2204-lts-4cob). Thanks :).
