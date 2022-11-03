@@ -18,6 +18,6 @@ Then i had to commit all the changes to the main branch so i used another git co
 
 On to the final part, so the file was in a different branch so at first i used ``` git branch -a ``` to see all the branches then i used ``` git checkout asia ``` to change my branch from main to asia, Now i needed to find the file so i've used another linux command ie ``` find . -name athens.txt ``` to get the file, Now i had the file in the asia branch i had  to merge this branch to main so that i can copy contents of athens.txt to part4.txt so for that i've used ``` git checkout main ``` to move back to the main branch and then i used ``` git merge asia ``` to merge the contents of asia to the main branch. Now i just copied the file contents from athens.txt to part4.txt in my solutions folder, hence i got all the 4 parts and then i just combined them to make a password which was then used to open the Secret-Scroll pdf file, which is provided in this folder.
 
-Inorder to push my work to the "main" branch in github i use the following command ``` git push origin main ``` after tracking and commiting the code.
+Inorder to push my work to the "main" branch in github i use the following command ``` git push origin main ``` after tracking and committing the code.
 
 I thank you for reading this, thank you for making such a beautiful task.
