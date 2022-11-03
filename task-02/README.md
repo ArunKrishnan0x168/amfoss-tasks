@@ -1,0 +1,3 @@
+# Terminal Hunt
+
+This was really a fun task to do, it just shows you how powerful and useful git is. So i have included the detailed terminal commands, screenshot of the PDF and the git commands that i've used to get the secret password is all documented in the SOLUTION.md in this folder. Once i thank the team for developing such an amazing task.
