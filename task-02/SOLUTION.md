@@ -20,4 +20,4 @@ On to the final part, so the file was in a different branch so at first i used `
 
 Inorder to push my work to the "main" branch in github i use the following command ``` git push origin main ``` after tracking and committing the code.
 
-I thank you for reading this, thank you for making such a beautiful task.
+I thank you for reading this, this was actually fun to do thank you for making such a beautiful task.
