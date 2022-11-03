@@ -1,1 +1,1 @@
-## Asked to skip due to an error in the script (I manually starred all the amFOSS repos tho).
+## Asked to skip due to an error in the script (I manually starred all the amFOSS repos tho)
