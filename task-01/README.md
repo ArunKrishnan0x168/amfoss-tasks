@@ -1,1 +1,3 @@
-## Asked to skip due to an error in the script (I manually starred all the amFOSS repos tho)
+# Star all the amFOSS repositories
+
+Done the script worked well and all the repos are now starred i've added a screenshot.png.Thanks.
