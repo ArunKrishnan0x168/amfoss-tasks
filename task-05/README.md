@@ -8,3 +8,6 @@ I've also added the video(mp4) of the debugged version running on my laptop
 
 Thanks again for this interesting task, Hopefully i'll be able make one like this in the future for my juniors as a part of team amFOSS
 
+### Working video
+
+![client_server_working]()
