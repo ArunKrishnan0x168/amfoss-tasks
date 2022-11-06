@@ -7,3 +7,5 @@ I've linked the css and js,added even listeners for sounds, added different back
 I've also added keypress events so that when you press the respective keys the sounds will be played.
 
 Here is a screenshot of my drumkit website : 
+
+![screen_shot](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-08/screen_shot_1.PNG)
