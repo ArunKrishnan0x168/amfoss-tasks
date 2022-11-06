@@ -47,3 +47,19 @@ k.addEventListener("click",()=>{
 l.addEventListener("click",()=>{
     tom_4.play();
 })
+
+//Drum function
+let drum = (x)=>{
+    if(x=="w") crash.play();
+    else if(x=="a") kick_bass.play();
+    else if(x=="s") snare.play();
+    else if(x=="d") tom_1.play();
+    else if(x=="j") tom_2.play();
+    else if(x=="k") tom_3.play();
+    else if(x=="l") tom_4.play()
+}
+
+// Identifying keypress events
+document.addEventListener("keypress",(e)=>{
+    drum(e.key)
+})
