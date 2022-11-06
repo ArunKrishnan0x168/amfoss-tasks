@@ -1,3 +1,5 @@
+//Author : Arun Krishnan(AM.EN.U4CSE22004)
+
 package main
 
 import (
@@ -8,7 +10,7 @@ import (
 
 var Count = 0
 
-// Implement the functions here
+// Implement the functions here(Done)
 
 func increment() js.Func {
 	return js.FuncOf(func(this js.Value, args []js.Value) interface{} {
