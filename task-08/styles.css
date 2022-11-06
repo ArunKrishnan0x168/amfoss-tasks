@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: #0e0051;
+}
+
+h1 {
+  font-family: "Sofia", sans-serif;
+  font-size: 5rem;
+  color: #ff0000;
+  text-shadow: 3px 0 #ffffff;
+
+}
+
+#w {
+  background-color: rgb(17, 255, 0);
+  box-shadow: 5px 10px;
+}
+
+#a {
+  background-color: rgb(28, 0, 111);
+  box-shadow: 5px 10px;
+}
+
+#s {
+  background-color: rgb(255, 0, 0);
+  box-shadow: 5px 10px;
+}
+
+#d {
+  background-color: rgb(0, 191, 255);
+  box-shadow: 5px 10px;
+}
+
+#j {
+  background-color: rgb(247, 247, 247);
+  box-shadow: 5px 10px;
+}
+
+#k {
+  background-color: rgb(190, 253, 0);
+  box-shadow: 5px 10px;
+}
+
+#l {
+  background-color: rgb(255, 179, 0);
+  box-shadow: 5px 10px;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  font-family: "Sofia", sans-serif;
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #09003d;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
