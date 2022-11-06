@@ -4,4 +4,4 @@ Wow i mean by far this was one of the hardest task other than task-3, The idea o
 
 I've included the completed main.go file in the task-07 folder along with wasm_exec.js and also the wasm version of main.go ie, main.wasm,i've also added a  video(gif) of the program in action.
 
-![go_wasm](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-07/go_wasm.gif)
+![go_wasm](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-07/go_wasm.gif) 
