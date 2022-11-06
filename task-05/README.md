@@ -4,10 +4,10 @@ This was really an interesting experience as i never had any experience with C# 
 
 I've added the Debugged(Working) client-server application to this task-05 repo, You guys can inspect the code, also where ever i made changes i've added a  ``` Debugging-Done ``` comment to point out the changes that i've made so hopefully that helps while inspecting the code.
 
-I've also added the video(mp4) of the debugged version running on my laptop
+I've also added the video(gif) of the debugged version running on my laptop
 
 Thanks again for this interesting task, Hopefully i'll be able make one like this in the future for my juniors as a part of team amFOSS
 
 ### Working video
 
-![client_server_working]()
+![client_server_working](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-05/client_server_working.gif)
