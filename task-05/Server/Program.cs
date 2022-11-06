@@ -47,11 +47,11 @@ public class SynchronousSocketListener
                 data = null;
 
                 // An incoming connection needs to be processed.  
-                // check if the varibale is defined or not also even correctly defined : Debugging Done
+                // check if the variable is defined or not also even correctly defined : Debugging-Done
                 int bytesRec = handler.Receive(bytes);
                 data = Encoding.ASCII.GetString(bytes, 0, bytesRec);  
                 //Console.WriteLine("Text received : {0}", data);
-                string[] dataArr = data.Split(',');
+                string[] dataArr = data.Split(','); //Debugging-Done
                 string name = dataArr[0];
                 string intrests = dataArr[1];
                 string mail = dataArr[2];
@@ -87,7 +87,7 @@ public class SynchronousSocketListener
         Console.Read();
 
     }
-    // check the main function : Debugging Done
+    // check the main function : Debugging-Done
     public static int Main(String[] args)
     {
         SynchronousSocketListener.StartListening();
