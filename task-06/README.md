@@ -6,6 +6,6 @@ The problems that i faced while doing this task was that i was unable to load so
 
 I did a lot of google searches, watched a lot of videos after which i was able to understand what was going on and what i needed to do,it was a hard task for me,but i had fun doing it, All the code which you guys can inspect is inside [lib](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-06/lib) directory in this task-06 folder.
 
-I'm also attaching a video(gif) of my app working on my laptop(i'm not using an android emulator for flutter, i'm using chrome to render)
+I'm also attaching a video(bunny_ui.gif) of my app working on my laptop(i'm not using an android emulator for flutter, i'm using chrome to render)
 
 ![bunny_ui](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-06/bunny_ui.gif)
