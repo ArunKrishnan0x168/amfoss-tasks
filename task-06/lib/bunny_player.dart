@@ -1,3 +1,6 @@
+//Author : Arun Krishnan(AM.EN.U4CSE22004)
+
+//imports
 
 import 'package:flame/components.dart';
 import 'directions.dart';
@@ -8,13 +11,14 @@ class BunnyPlayer extends SpriteComponent with HasGameRef {
 
   Direction direction = Direction.none;
 
+  //Loading image of the bunny
   @override
   Future<void> onLoad() async {
     super.onLoad();
     sprite = await gameRef.loadSprite('bunny.png');
   }
 
-
+ //Position updation
   @override
   void update(double dt) {
     super.update(dt);

@@ -1,7 +1,11 @@
+//Author : Arun Krishnan(AM.EN.U4CSE22004)
+
+//imports
+
 import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
 import 'bunny_game.dart';
-import 'navigation_keys.dart';
+import 'controls_keys.dart';
 
 void main() {
   final game = BunnyGame();

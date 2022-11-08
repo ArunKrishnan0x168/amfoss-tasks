@@ -1,4 +1,4 @@
-
+//Compiling all the individual files to the game loop
 
 import 'dart:ui';
 
