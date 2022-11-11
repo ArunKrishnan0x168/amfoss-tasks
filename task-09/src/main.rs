@@ -44,5 +44,5 @@ fn main()
 
     wrt.write_record(crypto_main_market_cap);
 
-
+    //END
 }
