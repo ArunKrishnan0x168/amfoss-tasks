@@ -4,6 +4,6 @@ This was an interesting task i've actually made a webscraper in the past using j
 
 I'm using css selectors for scraping the issue with this is it might get changed when the website gets updated,i'll update my code also once that happens.
 
-The source code is present in [src_code](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-09/src) and i've also added all the required files for the rust ecosystem along with the csv file produced when the script is ran.
+The source code is present in [src](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-09/src) and i've also added all the required files for the rust ecosystem along with the csv file produced when the script is ran.
 
 Thank you for this exciting opportunity which helped me in getting to more about webscraping and rust.
