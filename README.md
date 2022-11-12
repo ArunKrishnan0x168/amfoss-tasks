@@ -7,3 +7,4 @@
 **Task**|**Description**|**Status**
 --------|---------------|-------------
 [Task-00](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-00)|Installing Ubuntu Desktop[22.04]|Completed
+[Task-01](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-01)|Staring amFOSS repositories|Completed
