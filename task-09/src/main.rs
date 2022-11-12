@@ -34,15 +34,15 @@ fn main()
     let crypto_main_market_cap = document.select(&crypto_market_cap).map(|x| x.inner_html());
 
     //Writing the iterators to a csv file
-    wrt.write_record(crypto_main_name);
+    wrt.write_record(crypto_main_name).expect("Error");
 
-    wrt.write_record(crypto_main_price);
+    wrt.write_record(crypto_main_price).expect("Error");
    
-    wrt.write_record(crypto_main_24h_change);
+    wrt.write_record(crypto_main_24h_change).expect("Error");
 
-    wrt.write_record(crypto_main_24h_volume);
+    wrt.write_record(crypto_main_24h_volume).expect("Error");
 
-    wrt.write_record(crypto_main_market_cap);
+    wrt.write_record(crypto_main_market_cap).expect("Error");
 
     //END
 }
