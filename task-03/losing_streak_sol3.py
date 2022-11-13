@@ -1,5 +1,3 @@
-#Author : Arun Krishnan(AM.EN.U4CSE22004)
-
 import sys
 
 #Factors array
@@ -42,9 +40,7 @@ factorise(factor)
 for k in factors:
     if k != 2 and k != 3:
         other = True
-    else:
-        break
-
+        
 #If the money he has and the amount needed is the same
 if cash[0] == cash[1]:
     print(0)
