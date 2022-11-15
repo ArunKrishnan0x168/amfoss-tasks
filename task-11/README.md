@@ -14,7 +14,7 @@ Here is the design for the Register screen
 ![register_screen](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-11/register_screen.PNG)
 
 
-Here is the design for the Register screen
+Here is the design for the info screen
 
 ![info_screen](https://github.com/ArunKrishnan0x168/amfoss-tasks/blob/main/task-11/info_screen.PNG)
 
