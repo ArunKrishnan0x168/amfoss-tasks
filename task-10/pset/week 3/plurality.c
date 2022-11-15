@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <string>
 
+#define MAX 9
+
 //struct to store candidates name and votes
 typedef struct plurality
 {
@@ -12,7 +14,7 @@ typedef struct plurality
 candidate;
 
 // Candidates array
-candidate candidates[9];
+candidate candidates[MAX];
 
 //Number of candidates
 int candidate_count;
@@ -30,7 +32,7 @@ int main(int argc,string argv[])
 
     candidate_count = argc - 1;//we do -1 coz the name of the function is not an argument
 
-    if(candidate_count > 9)
+    if(candidate_count > MAX)
     {
         printf("Greater than 9 \n");
         return 2;
