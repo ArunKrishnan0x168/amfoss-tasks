@@ -17,6 +17,7 @@
 [Task-08](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-08)|Internet Explorer|Completed
 [Task-09](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-09)|Krypto Scrapper|Completed
 [Task-10](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-10)|CS50|Completed
+[Task-11](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-11)|Figma Ninja|Completed
 
 
 ## My views on the tasks
