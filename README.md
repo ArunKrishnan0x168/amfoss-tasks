@@ -18,7 +18,7 @@
 [Task-09](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-09)|Krypto Scrapper|Completed
 [Task-10](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-10)|CS50|Completed
 [Task-11](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-11)|Figma Ninja|Completed
-
+[Task-14](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 
 ## My views on the tasks
 
