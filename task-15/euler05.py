@@ -4,7 +4,7 @@
 
 import math
 
-
+#to find the lcm
 def lcm(n):
     a = 1
     for i in range(1,n+1):
