@@ -19,6 +19,7 @@
 [Task-10](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-10)|CS50|Completed
 [Task-11](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-11)|Figma Ninja|Completed
 [Task-14](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-14)|Bandit|Completed
+[Task-15](https://github.com/ArunKrishnan0x168/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 
 ## My views on the tasks
 
