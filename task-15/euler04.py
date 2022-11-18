@@ -11,3 +11,5 @@ for i in range(T):
         if palindromes[j] < N:
             print(palindromes[j])
             break
+
+#Done
